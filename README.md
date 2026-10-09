@@ -229,4 +229,5 @@ npm run build   # tsc -b + vite build
 2. Configure `ALLOWED_HOSTS` and `CORS_ALLOWED_ORIGINS` (no `testserver`).
 3. Change the admin password from the default.
 4. `python manage.py collectstatic`
-5. Serve the Django app with a production WSGI server and the built frontend from `frontend/dist`.
+5. Serve the Django app with a production WSGI server and the built frontend from `frontend/dist`.#   a s t r o a d m i n 2  
+ 
